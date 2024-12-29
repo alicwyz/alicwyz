@@ -31,20 +31,23 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A749%2F1*pluN_8e5GuVyqRmW8xWs1g.png&f=1&nofb=1&ipt=675bb082f2900c79bda69df41338c200a280d6f7e8d92a2f750292a77f5fb11a&ipo=images"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicwyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicwyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="135" alt="languages graph"  />
+<div align="center">
+  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A749%2F1*pluN_8e5GuVyqRmW8xWs1g.png&f=1&nofb=1&ipt=675bb082f2900c79bda69df41338c200a280d6f7e8d92a2f750292a77f5fb11a&ipo=images"  />
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alicwyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alicwyz&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=dracula&hide_border=true" height="135" alt="languages graph"  />
+</div>
+
+###
+<!--
+<div align="center">
   <img src="https://profile-counter.glitch.me/alicwyz/count.svg?"  />
 </div> 
 
 ###
+-->
